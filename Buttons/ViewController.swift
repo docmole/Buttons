@@ -10,6 +10,19 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var myLabel: UILabel!
+    
+    @IBAction func startGame(_ sender: Any) {
+        
+        myLabel.text = "Start Game"
+    }
+    
+    @IBAction func quitButton(_ sender: Any) {
+        
+        myLabel.text = "Game Over"
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
