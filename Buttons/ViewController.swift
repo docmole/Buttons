@@ -3,7 +3,7 @@
 //  Buttons
 //
 //  Created by Molinero Family on 3/20/20.
-//  Copyright © 2020 CarotolCode. All rights reserved.
+//  Copyright © 2020 CarotolCode. All rights reserved......
 //
 
 import UIKit
